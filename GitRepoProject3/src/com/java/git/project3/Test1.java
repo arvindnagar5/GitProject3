@@ -9,6 +9,7 @@ public class Test1 {
 		arr.add("Arvind");
 		arr.add("Nagar");
 		arr.add("Roshiya");
+		arr.add("Indore");
 		
 		System.out.println(arr);
 
